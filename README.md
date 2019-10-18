@@ -1,2 +1,2 @@
-# Trabalho-1-Estrutura-de-Dados
-Primeiro trabalho realizado na disciplina de Estrutura de Dados utilizando a linguagem C
+# First Work done in the discipline of data structure
+
